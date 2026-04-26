@@ -1,11 +1,11 @@
-export const DEFAULT_PROJECT_NAME = "fast-react-app";
+export const DEFAULT_PROJECT_NAME = "quick-react-app";
 
 export const REPO_BASE = "prateek898/template-major";
 
 export const CREDITS = {
   intro: {
     message: "✨ Thank You for using",
-    highlight: "react-fast-app",
+    highlight: "quick-fast-app",
     desc: "This will creat a react app with Tailwind CSS and shadcn UI",
   },
   outro: {
